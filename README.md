@@ -27,7 +27,7 @@
 <img src="https://github.com/sander1999/Flixster2/blob/main/Flixster2%20(3).gif" width=250><br>
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/sander1999/Flixster2/blob/main/Flixster2%20(1).gif" width=250><br>
 ### Notes
 
 Describe any challenges encountered while building the app.
